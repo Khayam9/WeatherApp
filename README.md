@@ -45,7 +45,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The challenge I faced during the project was to get the weather dynamic image which I solved by watching a youtube video and now with every search the icon for weather also changes.
 
 ## License
 
